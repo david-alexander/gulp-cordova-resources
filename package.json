@@ -1,0 +1,33 @@
+{
+  "name": "gulp-cordova-resources",
+  "version": "1.0.0",
+  "description": "Add resources such as icons and splash-screens to your Cordova project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-alexander/gulp-cordova-resources.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpjs",
+    "cordova",
+    "resources"
+  ],
+  "author": {
+    "name": "David Alexander",
+    "email": "david@cerebralfix.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/david-alexander/gulp-cordova-resources/issues"
+  },
+  "homepage": "https://github.com/david-alexander/gulp-cordova-resources",
+  "dependencies": {
+    "cordova-lib": "^5.0.0",
+    "gulp-util": "^3.0.4",
+    "q": "^1.3.0",
+    "through2": "^2.0.0"
+  }
+}
